@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Red Hat Success Week | ELOS Technologies',
-  description: 'Celý týden výjimečná sleva 15 % na kompletní Red Hat portfolio. 20.–24. dubna 2026.',
+  title: 'ELOS Success Week | ELOS Technologies',
+  description: 'Celý týden výjimečná sleva 20 % na kompletní Red Hat portfolio. 20.–24. dubna 2026.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

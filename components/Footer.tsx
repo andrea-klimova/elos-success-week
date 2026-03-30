@@ -19,7 +19,7 @@ export default function Footer({ address, email, phone }: Props) {
           </div>
         </div>
         <div className="border-t border-white/10 mt-8 pt-6 text-center text-white/40 text-xs">
-          © 2026 ELOS Technologies. Red Hat Success Week je propagační akce. Red Hat je ochranná známka Red Hat, Inc.
+          © 2026 ELOS Technologies. ELOS Success Week je propagační akce. Red Hat je ochranná známka Red Hat, Inc.
         </div>
       </div>
     </footer>

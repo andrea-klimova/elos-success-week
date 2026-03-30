@@ -4,7 +4,7 @@ export const defaultContent: PageContent = {
   hero: {
     badge: "Časově omezená akce",
     date: "20.–24. dubna 2026",
-    title: "Red Hat",
+    title: "ELOS",
     titleHighlight: "Success Week",
     subtitle: "Celý týden výjimečná sleva na kompletní Red Hat portfolio — licence i školení. Ve spolupráci s Red Hat.",
     discountNumber: "20%",

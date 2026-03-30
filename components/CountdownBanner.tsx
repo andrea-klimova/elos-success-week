@@ -35,7 +35,7 @@ export default function CountdownBanner({ targetDate }: Props) {
   return (
     <div className="bg-elos-orange px-6 md:px-10 py-3 flex justify-between items-center">
       <span className="text-sm font-medium text-gray-900">
-        Red Hat Success Week | 20.–24. dubna 2026
+        ELOS Success Week | 20.–24. dubna 2026
       </span>
       <span className="text-sm font-bold text-gray-900">
         {ended
